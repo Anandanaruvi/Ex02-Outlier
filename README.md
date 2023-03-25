@@ -24,7 +24,7 @@ TO detect and remove the outliers in the given data set and save the final data.
 
 Import the required packages(pandas,numpy,scipy)
 
-#Step 2:
+# Step 2:
 
 Read the given csv file
 
